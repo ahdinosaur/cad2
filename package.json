@@ -1,6 +1,7 @@
 {
   "name": "cad2",
   "description": "",
+  "bin": "./bin.sh",
   "version": "1.0.0",
   "homepage": "https://github.com/dominictarr/cad2",
   "repository": {
